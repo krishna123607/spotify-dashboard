@@ -38,7 +38,7 @@ To provide a clear and interactive view of Spotify streaming trends, helping use
 3. Use slicers to filter the data.
 4. Explore interactive visuals for deeper insights.
 
-## 📸 Preview
+## 📸 Preview --https://github.com/krishna123607/spotify-dashboard/blob/main/spotify%20dashboard.png
 
 
   
